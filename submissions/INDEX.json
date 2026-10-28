@@ -1,6 +1,16 @@
 {
   "Adeep AG": [
     {
+      "type": "PostedLink",
+      "points": 40,
+      "title": "Geto Web IDE — Browser-Based IDE for Shrike-Lite",
+      "link": "https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ",
+      "date": "2026-10-27",
+      "file": "Adeep_AG_Linkedin_PostedLink_2026-10-27.json",
+      "for_type": "Linkedin",
+      "grandfathered": false
+    },
+    {
       "type": "Project",
       "points": 70,
       "title": "Geto Web IDE : For Shrike Series board(RP2040 & RP2350)",
