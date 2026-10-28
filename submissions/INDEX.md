@@ -1,6 +1,6 @@
-# Submissions by Fellow - 2026-10-28 11:17 UTC
+# Submissions by Fellow - 2026-10-28 11:23 UTC
 
-_Total: 46 accepted submissions across 22/69 fellows_
+_Total: 47 accepted submissions across 22/69 fellows_
 
 ## Adeep AG - 3 submission(s), 110 pts
 - [PostedLink] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_PostedLink_2026-10-27.json`
@@ -53,7 +53,8 @@ _Total: 46 accepted submissions across 22/69 fellows_
 ## Pranav Dhole - 1 submission(s), 0 pts
 - [PurchaseProof] PurchaseProof (2026-10-7) - https://ibb.co/4vSJLtb - 0 pts - `Pranav_Dhole_PurchaseProf_2026-10-7.json`
 
-## Revand Pradeep - 2 submission(s), 70 pts
+## Revand Pradeep - 3 submission(s), 70 pts
+- [Linkedin] Shrike-Sentinel (2026-10-26) - https://lnkd.in/p/gPFg4fYN - 0 pts - `Revand_Pradeep_Linkedln_2026-10-26.json`
 - [Project] Shrike-Sentinel (2026-10-15) - https://docs.google.com/document/d/1DzsEX9RhsuA5Obxm0qkuIky-P2YCXNoWIiYl_c4sDtA/edit?usp=sharing - 70 pts - `Revand_Pradeep_Project_2026-10-15.json`
 - [PurchaseProof] Vicharak Kit Purchase Proof (2026-10-03) - https://drive.google.com/drive/folders/18JQ_lGAOGAOYQ0ecBd2tAzkTKb5Qq7w3 - 0 pts - `RevandPradeep_PurchaseProof_2026-10-03.json`
 

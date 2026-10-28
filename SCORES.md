@@ -1,4 +1,4 @@
-# Fellowship Scores - 2026-10-28 11:17 UTC
+# Fellowship Scores - 2026-10-28 11:23 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
@@ -13,7 +13,7 @@ Threshold: 250 (ELIGIBLE >= 250)
 | 7 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
 | 8 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | 0 | 1 | 0 | 1 | 0 | 0 | **80** | BELOW |
 | 9 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | 1 | 0 | 0 | 0 | 0 | 0 | **70** | BELOW |
-| 10 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 0 | 0 | 0 | 0 | 0 | **70** | BELOW |
+| 10 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **70** | BELOW |
 | 11 | [Shreya Veni](allocations/Shreya_Veni.md) | @concatenate-this | YES | 0 | 0 | 1 | 0 | 0 | 0 | **40** | BELOW |
 | 12 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | 0 | 0 | 0 | 1 | 0 | 0 | **40** | BELOW |
 | 13 | [Veer Kishan Whabi](allocations/Veer_Kishan_Whabi.md) | @veeru24ec006 | YES | 0 | 0 | 0 | 1 | 0 | 0 | **40** | BELOW |
