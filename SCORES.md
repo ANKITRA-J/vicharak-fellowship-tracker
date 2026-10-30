@@ -1,4 +1,4 @@
-# Fellowship Scores - 2026-10-28 11:23 UTC
+# Fellowship Scores - 2026-10-30 09:25 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
@@ -60,7 +60,7 @@ Threshold: 250 (ELIGIBLE >= 250)
 | 54 | [Pritika Gatike](allocations/Pritika_Gatike.md) | @pritikagatike | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 55 | [Pruthvi M](allocations/Pruthvi_M.md) | @pruthviagi | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 56 | [Punya Malaiya Jain](allocations/Punya_Malaiya_Jain.md) | @punyajain-cmd | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 57 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 57 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | 0 | 0 | 0 | 0 | 0 | 1 | **0** | BELOW |
 | 58 | [S Vaishnavi](allocations/S_Vaishnavi.md) | @vaishnavis1603-blip | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 59 | [Sachidananda Mallick](allocations/Sachidananda_Mallick.md) | @sachin1724 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 60 | [Shashikant](allocations/Shashikant.md) | @shashikant70086 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |

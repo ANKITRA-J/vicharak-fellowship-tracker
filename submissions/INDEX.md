@@ -1,6 +1,6 @@
-# Submissions by Fellow - 2026-10-28 11:23 UTC
+# Submissions by Fellow - 2026-10-30 09:25 UTC
 
-_Total: 47 accepted submissions across 22/69 fellows_
+_Total: 48 accepted submissions across 22/69 fellows_
 
 ## Adeep AG - 3 submission(s), 110 pts
 - [PostedLink] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_PostedLink_2026-10-27.json`
@@ -58,7 +58,8 @@ _Total: 47 accepted submissions across 22/69 fellows_
 - [Project] Shrike-Sentinel (2026-10-15) - https://docs.google.com/document/d/1DzsEX9RhsuA5Obxm0qkuIky-P2YCXNoWIiYl_c4sDtA/edit?usp=sharing - 70 pts - `Revand_Pradeep_Project_2026-10-15.json`
 - [PurchaseProof] Vicharak Kit Purchase Proof (2026-10-03) - https://drive.google.com/drive/folders/18JQ_lGAOGAOYQ0ecBd2tAzkTKb5Qq7w3 - 0 pts - `RevandPradeep_PurchaseProof_2026-10-03.json`
 
-## Rudra Das - 1 submission(s), 0 pts
+## Rudra Das - 2 submission(s), 0 pts
+- [Insta reel] How a FPGA handles Wiring internally far better than a microcontroller. (2026-10-29) - https://drive.google.com/file/d/1BCGLpNFKAuUQUC2rjOgnL4tsFraTsTCR/view?usp=sharing - 0 pts - `Rudra_Das_Insta_reel_2026-10-29.json`
 - [PurchaseProof] Purchase proof of shrike lite, from Vicharak website, order number #4654 (2026-10-05) - https://drive.google.com/file/d/1MZLztG02_bqR_z3ZRcP0hvcpkmajiLCZ/view?usp=sharing - 0 pts - `Rudra_Das_PurchaseProof_2026-10-05.json`
 
 ## Rujul Rajeev Rumale - 3 submission(s), 80 pts
