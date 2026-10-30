@@ -493,6 +493,16 @@
       "grandfathered": true
     },
     {
+      "type": "Linkedin",
+      "points": 0,
+      "title": "ShrikeFi lets an AI agent control a stock Android phone",
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7520909884897488896/",
+      "date": "2026-10-28",
+      "file": "yatharth_vishwa_Linkedin_2026-10-28.json",
+      "for_type": "",
+      "grandfathered": false
+    },
+    {
       "type": "Project",
       "points": 70,
       "title": "OTA support for ShrikeFi's FPGA",
