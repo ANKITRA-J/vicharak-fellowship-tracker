@@ -1,20 +1,20 @@
-# Fellowship Scores - 2026-10-30 17:33 UTC
+# Fellowship Scores - 2026-11-01 21:44 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
 | Rank | Fellow | GitHub | Kit | Project | LinkedIn | Blog | X | Workshop | Other | Total | Status |
 |---:|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | 2 | 3 | 0 | 0 | 0 | 0 | **220** | BELOW |
+| 1 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | 2 | 3 | 0 | 0 | 0 | 0 | **260** | ELIGIBLE |
 | 2 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | 1 | 1 | 0 | 1 | 0 | 0 | **150** | BELOW |
 | 3 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | 2 | 0 | 0 | 0 | 0 | 0 | **140** | BELOW |
-| 4 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | 1 | 0 | 0 | 0 | 0 | 1 | **110** | BELOW |
+| 4 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
 | 5 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | 1 | 0 | 1 | 0 | 0 | 0 | **110** | BELOW |
-| 6 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
-| 7 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
-| 8 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | 0 | 1 | 0 | 1 | 0 | 0 | **80** | BELOW |
-| 9 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | 1 | 0 | 0 | 0 | 0 | 0 | **70** | BELOW |
-| 10 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **70** | BELOW |
-| 11 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | 0 | 0 | 0 | 0 | 0 | 2 | **50** | BELOW |
+| 6 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
+| 7 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | 0 | 0 | 0 | 0 | 0 | 2 | **100** | BELOW |
+| 8 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
+| 9 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
+| 10 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | 0 | 1 | 0 | 1 | 0 | 0 | **80** | BELOW |
+| 11 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | 1 | 0 | 0 | 0 | 0 | 0 | **70** | BELOW |
 | 12 | [Shreya Veni](allocations/Shreya_Veni.md) | @concatenate-this | YES | 0 | 0 | 1 | 0 | 0 | 0 | **40** | BELOW |
 | 13 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | 0 | 0 | 0 | 1 | 0 | 0 | **40** | BELOW |
 | 14 | [Veer Kishan Whabi](allocations/Veer_Kishan_Whabi.md) | @veeru24ec006 | YES | 0 | 0 | 0 | 1 | 0 | 0 | **40** | BELOW |
@@ -74,4 +74,4 @@ Threshold: 250 (ELIGIBLE >= 250)
 | 68 | [Yash Sharda](allocations/Yash_Sharda.md) | @yashsharda2 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 69 | [Yashvi Doshi](allocations/Yashvi_Doshi.md) | @yashvidoshi | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 
-_Source: allocations/summary.csv - 69 fellows - Points: Blog=40, Linkedin=40, X=40, Project=70, Workshop=100, Documentation contribution=30, YT longform Video=90, YT shorts=50, Insta reel=50, Fellowship Referral=20, Bug=25, PurchaseProof=0, PostedLink=0
+_Source: allocations/summary.csv - 69 fellows - Points: Blog=40, Linkedin=40, X=40, Project=70, Workshop=100, Documentation contribution=30, YT longform Video=90, YT shorts=50, Insta reel=50, Fellowship Referral=20, Bug=25, PurchaseProof=0

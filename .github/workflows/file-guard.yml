@@ -67,22 +67,7 @@ jobs:
                   print(f"  - {b}  ->  rename to {b}.json")
               sys.exit(1)
 
-          # 2. Students cannot grandfather their own work (admin-only flag)
-          for f in files:
-              if (f.get("status") == "added" and f["filename"].endswith(".json")
-                      and f["filename"].startswith("submissions/")):
-                  cr = gh([f"repos/{repo}/contents/{f['filename']}?ref={head_sha}", "--jq", ".content"])
-                  if cr.returncode == 0:
-                      try:
-                          obj = json.loads(base64.b64decode(cr.stdout.strip()).decode("utf-8"))
-                          if obj.get("grandfathered"):
-                              print(f"FAIL: {f['filename']} has 'grandfathered: true' which is admin-only. "
-                                    "Students cannot self-grandfather their work.")
-                              sys.exit(1)
-                      except Exception:
-                          pass
-
-          # 2b. Validate JSON content so typos fail here, not silently later
+          # 2. Validate JSON content so typos fail here, not silently later
           import json as _json
           for f in files:
               if f.get("status") == "added" and f["filename"].endswith(".json") and f["filename"].startswith("submissions/"):
@@ -120,8 +105,6 @@ jobs:
                               ctype = "Workshop"
                           elif "purchase" in low or "kit" in low or low == "proof":
                               ctype = "PurchaseProof"
-                          elif "posted" in low or "final" in low or "publish" in low:
-                              ctype = "PostedLink"
                       if ctype is None:
                           print(f"FAIL: {f['filename']} - unknown type '{type_raw}'.")
                           print(f"  Valid types: {', '.join(sorted(points))}")

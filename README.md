@@ -7,7 +7,7 @@ You do work outside (blog, video, LinkedIn post, project), you send us the link 
 You need 250 points to become ELIGIBLE.
 
 Points list (from `points.json`):
-Blog = 40, Linkedin = 40, X = 40, Project (GitHub) = 70, Workshop = 100, Documentation contribution = 30, YT longform Video = 90, YT shorts = 50, Insta reel = 50, Fellowship Referral = 20, Bug = 25, PostedLink = 0 (verified, awards points[for_type] on platform verification). PurchaseProof = 0 points, but it unlocks you.
+Blog = 40, Linkedin = 40, X = 40, Project (GitHub) = 70, Workshop = 100, Documentation contribution = 30, YT longform Video = 90, YT shorts = 50, Insta reel = 50, Fellowship Referral = 20, Bug = 25. PurchaseProof = 0 points, but it unlocks you.
 
 Student list comes from `fellows.csv` (69 fellows).
 
@@ -38,28 +38,18 @@ Only after your PurchaseProof is accepted, do this for Blog, Linkedin, X, Projec
 3. Send it: open a PR titled `[Type] Your Name`. Example: `[Blog] Arjun A`. Paste the same Google Doc link in the PR description so I can click fast.
 4. One file = one PR. Do not put 5 links in one file. Send 5 PRs.
 
-### Two-stage flow for social media submissions (Blog, Linkedin, X, YT longform Video, YT shorts, Insta reel)
+### Conventional flow for all submissions (including social media)
 
-Social media types follow a two-stage process to ensure students actually post on the platform:
+All submission types follow the same flow: one PR, admin reviews and merges, points given.
 
-**Stage 1 — Draft (admin reviews, 0 points):**
+**For social media types (Blog, Linkedin, X, YT longform Video, YT shorts, Insta reel):**
 1. Submit `type: "Blog"` (or other social type) with `link` = your Google Doc draft. Title it `[Blog] Your Name`.
-2. I review the content by eye. If good, I merge → "content approved" (0 points allocated).
-3. Bot posts an auto-comment: "Content approved! Now post on Medium and submit the final link for your points."
+2. Admin reviews the content by eye. If good, admin comments: "Post on the platform and update the link in this PR to the published URL."
+3. Student updates the `link` field in the same PR to the published URL.
+4. Admin verifies the posted link by eye, then merges → points given (Blog = 40, etc.).
 
-**Stage 2 — Posted link (system verifies, points given):**
-1. Post the final version on the platform (Medium, x.com, LinkedIn, YouTube, Instagram).
-2. Open a **new PR** with `type: "PostedLink"`, `for_type: "Blog"` (or your type), and `link` = the published URL. Title it `[PostedLink] Your Name`.
-3. The system verifies: is the URL from the right platform? Was a draft already approved (title match ≥ 75%)?
-   - If yes → **system processes it** → points allocated (Blog = 40, etc.).
-   - If no → system comments the specific issue → PR stays open for me to review.
-4. No manual approval needed. Points appear automatically.
-
-**Note:** If you skip the draft stage and submit `PostedLink` directly, the bot will leave it for admin review (no auto-approval) since no prior draft was found.
-
-### Other submission types (Project, Workshop, Documentation contribution, Bug, Fellowship Referral, PurchaseProof)
-
-These work as before: one PR, admin reviews and merges, points given. No posted link step needed.
+**For other types (Project, Workshop, Documentation contribution, Bug, Fellowship Referral, PurchaseProof):**
+One PR, admin reviews and merges, points given. No posted link step needed.
 
 ## Step 2 - How I check and give points
 
@@ -94,7 +84,7 @@ Workshop,...
 Total,,,,,,<total>
 ```
 
-Points = number of accepted links x points for that type. Total = sum of all. 250+ = ELIGIBLE, below = BELOW. Social media types (Blog, Linkedin, X, YT longform Video, YT shorts, Insta reel) follow a two-stage flow: draft (0 points) → PostedLink (full points, verified). Other types are treated normally.
+Points = number of accepted links x points for that type. Total = sum of all. 250+ = ELIGIBLE, below = BELOW. Social media types (Blog, Linkedin, X, YT longform Video, YT shorts, Insta reel) follow conventional flow: admin verifies the posted link by eye, then merges → points given. Other types are treated normally.
 
 ## What is inside this repo (simple map)
 
@@ -105,7 +95,6 @@ Points = number of accepted links x points for that type. Total = sum of all. 25
 - `scripts/update_scores.py` - robot brain. Run `python scripts/update_scores.py` to test locally.
 - `fellowship_scores.pdf` - auto-made PDF of all scores.
 - `.github/workflows/score.yml` - scoring bot (runs on merge, regenerates allocations/scores).
-- `.github/workflows/auto-approve-posted-link.yml` - auto-verifies posted link PRs for social media types.
 - `docs/JOIN.md` - how to join (purchase proof = first PR).
 - `docs/FORKS.md` - why your PR may conflict, and how to fix it.
 - `docs/PROJECTS.md` - already-accepted projects + upstream examples. **Check this before submitting a Project.**
@@ -119,21 +108,21 @@ Points = number of accepted links x points for that type. Total = sum of all. 25
 
 ## Live Score List (auto-updated on every merge, do not edit below)
 <!-- SCORES_START -->
-_Updated 2026-10-30 17:33 UTC - Threshold 250 - 14/69 with points_
+_Updated 2026-11-01 21:44 UTC - Threshold 250 - 14/69 with points_
 
 | Rank | Fellow | GitHub | Kit | Total | Status |
 |---:|---|---|---|---:|---|
-| 1 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | **220** | BELOW |
+| 1 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | **260** | ELIGIBLE |
 | 2 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | **150** | BELOW |
 | 3 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | **140** | BELOW |
 | 4 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | **110** | BELOW |
 | 5 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | **110** | BELOW |
-| 6 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **80** | BELOW |
-| 7 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | **80** | BELOW |
-| 8 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | **80** | BELOW |
-| 9 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | **70** | BELOW |
-| 10 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | **70** | BELOW |
-| 11 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | **50** | BELOW |
+| 6 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | **110** | BELOW |
+| 7 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | **100** | BELOW |
+| 8 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **80** | BELOW |
+| 9 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | **80** | BELOW |
+| 10 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | **80** | BELOW |
+| 11 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | **70** | BELOW |
 | 12 | [Shreya Veni](allocations/Shreya_Veni.md) | @concatenate-this | YES | **40** | BELOW |
 | 13 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | **40** | BELOW |
 | 14 | [Veer Kishan Whabi](allocations/Veer_Kishan_Whabi.md) | @veeru24ec006 | YES | **40** | BELOW |
@@ -151,7 +140,7 @@ Full table: [`SCORES.md`](SCORES.md) · Machine-readable: [`allocations/summary.
 
 ## Projects (auto-updated on every merge, do not edit below)
 <!-- PROJECTS_START -->
-_Updated 2026-10-30 17:33 UTC — 9 approved, 2 in review_
+_Updated 2026-11-01 21:44 UTC — 9 approved, 0 in review_
 
 ### Approved Projects
 | Fellow | Project | Link |
@@ -167,10 +156,7 @@ _Updated 2026-10-30 17:33 UTC — 9 approved, 2 in review_
 | yatharth vishwa | ESP32-AndroidHID-Agent | https://github.com/yatharthvishwa/ESP32-AndroidHID-Agent |
 
 ### In Review (open PRs)
-| Fellow | Project | PR | Opened |
-|---|---|---|---|
-| Ankit raj | Shrike-Fi Enigma | PR #108 | 2026-10-29 |
-| Vaibhav Santosh Tiwari | Bare-Metal RP2040 Firmware for Shrike Lite | PR #107 | 2026-10-29 |
+_None._
 
 Full list + upstream examples: [docs/PROJECTS.md](docs/PROJECTS.md)
 <!-- PROJECTS_END -->
