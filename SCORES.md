@@ -1,4 +1,4 @@
-# Fellowship Scores - 2026-11-01 18:16 UTC
+# Fellowship Scores - 2026-11-03 10:10 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
@@ -7,11 +7,11 @@ Threshold: 250 (ELIGIBLE >= 250)
 | 1 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | 2 | 3 | 0 | 0 | 0 | 0 | **260** | ELIGIBLE |
 | 2 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | 1 | 1 | 0 | 1 | 0 | 0 | **150** | BELOW |
 | 3 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | 2 | 0 | 0 | 0 | 0 | 0 | **140** | BELOW |
-| 4 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
-| 5 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | 1 | 0 | 1 | 0 | 0 | 0 | **110** | BELOW |
-| 6 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
-| 7 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | 0 | 0 | 0 | 0 | 0 | 2 | **100** | BELOW |
-| 8 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
+| 4 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | 0 | 0 | 1 | 2 | 0 | 0 | **120** | BELOW |
+| 5 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
+| 6 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | 1 | 0 | 1 | 0 | 0 | 0 | **110** | BELOW |
+| 7 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
+| 8 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | 0 | 0 | 0 | 0 | 0 | 2 | **100** | BELOW |
 | 9 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
 | 10 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | 0 | 1 | 0 | 1 | 0 | 0 | **80** | BELOW |
 | 11 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | 1 | 0 | 0 | 0 | 0 | 0 | **70** | BELOW |
