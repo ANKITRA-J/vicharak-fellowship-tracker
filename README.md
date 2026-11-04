@@ -108,14 +108,14 @@ Points = number of accepted links x points for that type. Total = sum of all. 25
 
 ## Live Score List (auto-updated on every merge, do not edit below)
 <!-- SCORES_START -->
-_Updated 2026-11-03 10:10 UTC - Threshold 250 - 14/69 with points_
+_Updated 2026-11-04 09:13 UTC - Threshold 250 - 14/69 with points_
 
 | Rank | Fellow | GitHub | Kit | Total | Status |
 |---:|---|---|---|---:|---|
 | 1 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | **260** | ELIGIBLE |
-| 2 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | **150** | BELOW |
-| 3 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | **140** | BELOW |
-| 4 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **120** | BELOW |
+| 2 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **160** | BELOW |
+| 3 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | **150** | BELOW |
+| 4 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | **140** | BELOW |
 | 5 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | **110** | BELOW |
 | 6 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | **110** | BELOW |
 | 7 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | **110** | BELOW |
@@ -140,7 +140,7 @@ Full table: [`SCORES.md`](SCORES.md) · Machine-readable: [`allocations/summary.
 
 ## Projects (auto-updated on every merge, do not edit below)
 <!-- PROJECTS_START -->
-_Updated 2026-11-03 10:10 UTC — 9 approved, 2 in review_
+_Updated 2026-11-04 09:13 UTC — 9 approved, 2 in review_
 
 ### Approved Projects
 | Fellow | Project | Link |

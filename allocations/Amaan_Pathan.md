@@ -39,6 +39,6 @@ _None._
 
 ## Pending (open) PRs
 
-- PR #113 — [Blog] Amaan Pathan — PROJ001-SOL01: 3 Inverter SPWM (opened 2026-11-03)
+- PR #113 — [Blog] Amaan Pathan — PROJ001-BLOG01: 3 Inverter SPWM (opened 2026-11-03)
 
-_Generated 2026-11-03 10:10 UTC — auto-updated on every merge._
+_Generated 2026-11-04 09:13 UTC — auto-updated on every merge._
