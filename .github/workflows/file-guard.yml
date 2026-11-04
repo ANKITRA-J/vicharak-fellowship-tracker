@@ -20,8 +20,19 @@ jobs:
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: |
           python3 - <<'EOF'
-          import base64, json, os, subprocess, sys
+          import base64, json, os, re, subprocess, sys
           repo = os.environ["REPO"]
+          # Load fellows from CSV
+          import csv
+          fellows = set()
+          with open("fellows.csv", encoding="utf-8") as f:
+              for row in csv.DictReader(f):
+                  n = (row.get("Full name") or "").strip()
+                  if n: fellows.add(re.sub(r"\s+", " ", n).lower())
+          # Load points and aliases from JSON
+          import json as _json_mod
+          points = _json_mod.load(open("points.json", encoding="utf-8"))
+          aliases = {k.lower(): v for k, v in points.get("_aliases", {}).items()}
           pr = os.environ["PR_NUMBER"]
           pr_author = os.environ["PR_AUTHOR"].lower()
           head_sha = os.environ["HEAD_SHA"]
