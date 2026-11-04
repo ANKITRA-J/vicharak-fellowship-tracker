@@ -41,6 +41,15 @@
   ],
   "Amaan Pathan": [
     {
+      "type": "Blog",
+      "points": 40,
+      "title": "PROJ001-SOL01: 3 Inverter SPWM",
+      "link": "https://amaan-projects.hashnode.dev/proj001-sol01-3-inverter-spwm",
+      "date": "2026-11-03",
+      "file": "Amaan_Pathan_Blog_2026-11-03.json",
+      "for_type": ""
+    },
+    {
       "type": "Linkedin",
       "points": 40,
       "title": "Vicharak Campus Fellowship Kickoff",
