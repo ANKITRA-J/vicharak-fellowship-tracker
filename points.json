@@ -11,7 +11,9 @@
   "Fellowship Referral": 20,
   "Bug": 25,
   "PurchaseProof": 0,
+  "Diwali project": 90,
   "_aliases": {
+    "diwali project": "Diwali project",
     "blog": "Blog",
     "technical blog": "Blog",
     "linkdin": "Linkedin",
