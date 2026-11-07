@@ -1,25 +1,28 @@
-# Submissions by Fellow - 2026-10-30 09:28 UTC
+# Submissions by Fellow - 2026-11-04 13:32 UTC
 
-_Total: 49 accepted submissions across 22/69 fellows_
+_Total: 53 accepted submissions across 22/69 fellows_
 
 ## Adeep AG - 3 submission(s), 110 pts
-- [PostedLink] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_PostedLink_2026-10-27.json`
+- [Linkedin] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_2026-10-27.json`
 - [Project] Geto Web IDE : For Shrike Series board(RP2040 & RP2350) (2026-10-17) - https://github.com/ADEEP13/IDE - 70 pts - `Adeep_AG_Project_2026-10-17.json`
 - [PurchaseProof] Shrike Lite Order #4726 (2026-10-09) - https://drive.google.com/drive/u/0/folders/1h7LZbNftaQJHPZZ7_Fp8lw2rfFcRpzPM - 0 pts - `Adeep_AG_PurchaseProof_2026-10-09.json`
 
 ## Aditya Nukala - 1 submission(s), 0 pts
 - [PurchaseProof] Vicharak Fellowship kit Purchase Proof (2026-10-14) - https://drive.google.com/drive/folders/1wtj7Pgt6J6he5JOblPkfnwpEVLV-jZXD?usp=sharing - 0 pts - `Aditya_Nukala_PurchaseProof_2026-10-14.json`
 
-## Amaan Pathan - 4 submission(s), 150 pts
+## Amaan Pathan - 5 submission(s), 190 pts
+- [Blog] PROJ001-SOL01: 3 Inverter SPWM (2026-11-03) - https://amaan-projects.hashnode.dev/proj001-sol01-3-inverter-spwm - 40 pts - `Amaan_Pathan_Blog_2026-11-03.json`
 - [Linkedin] Vicharak Campus Fellowship Kickoff (2026-10-10) - https://www.linkedin.com/posts/amaan-pathan-127bb0263_vicharak-embeddedsystems-fpga-share-7514711558405521408-DsDl/ - 40 pts - `Amaan_Pathan_Linkedin_2026-10-10.json`
 - [Project] Shrike-Fi Three-Phase SPWM Inverter (2026-10-20) - https://github.com/Amaan9737/shrike-fi-three-phase-spwm-inverter - 70 pts - `Amaan_Pathan_Project_2026-10-20.json`
 - [PurchaseProof] PurchaseProof_pack of 2 ShrikeFi_Amaan Pathan (2026-10-08) - https://drive.google.com/file/d/1UEn-QpIAYLxYL8V42cCf-1WJR7T8QCbP/view?usp=sharing - 0 pts - `Amaan_Pathan_PurchaseProof_2026-10-08.json`
 - [X] Vicharak Campus Fellowship Kickoff (2026-10-10) - https://x.com/AstroAmaan/status/2108955198274379963 - 40 pts - `Amaan_Pathan_X_2026-10-10.json`
 
-## Ankit raj - 3 submission(s), 80 pts
+## Ankit raj - 5 submission(s), 160 pts
 - [Blog] Shrike-Scope: Building a USB Oscilloscope with the Vicharak Shrike-Fi (2026-10-15) - https://docs.google.com/document/d/1LPNTUWZky4v0anmgryq7N7yoyT6Yg6AC/edit?usp=sharing&ouid=109376149344711751562&rtpof=true&sd=true - 40 pts - `Ankit_raj_Blog_2026-10-15.json`
+- [Blog] ShrikEnigma: Rebuilding World war II Enigma on the Shrike Fi FPGA (2026-10-30) - https://app.notion.com/p/ShrikEnigma-Rebuilding-Enigma-on-the-Shrike-Fi-FPGA-40974b84c70c8192887ff7cf71a7e495?source=copy_link - 40 pts - `Ankit_raj_Blog_2026-10-30.json`
 - [PurchaseProof] Vicharak Fellowship Kit Purchase Proof (2026-10-13) - https://drive.google.com/drive/folders/1ULPYCRh1iDjAZz93mgKhIKx7e3LOg7Sx - 0 pts - `Ankit_raj_PurchaseProof_2026-10-13.json`
 - [X] Shrike-Scope: laptop oscilloscope on Vicharak Shrike-Fi (2026-10-15) - https://docs.google.com/document/d/1HdydgKhk10kyXjXO52IPTpVtqnq3nk1D1awjBy11p0s/edit?usp=sharing - 40 pts - `Ankit_raj_X_2026-10-15.json`
+- [X] ShrikEnigma: Hardware WWII Enigma Machine on Shrike-Fi FPGA (2026-10-30) - https://docs.google.com/document/d/1wJ0Bla-vXqlKrBWtmZnBGOJozGsdPDHfYkWUCrVemmI/edit?usp=sharing - 40 pts - `Ankit_raj_X_2026-10-30.json`
 
 ## ANNESTIO PIETY CASTANHA - 2 submission(s), 70 pts
 - [Project] ShrikeFi 16-bit Multicycle CPU (2026-10-12) - https://github.com/apcetc/Vicharak_Campus_Fellowship_APC-/tree/main/PROJECT_1 - 70 pts - `ANNESTIO_PIETY_CASTANHA_Project_2026-10-12.json`
@@ -53,13 +56,14 @@ _Total: 49 accepted submissions across 22/69 fellows_
 ## Pranav Dhole - 1 submission(s), 0 pts
 - [PurchaseProof] PurchaseProof (2026-10-7) - https://ibb.co/4vSJLtb - 0 pts - `Pranav_Dhole_PurchaseProf_2026-10-7.json`
 
-## Revand Pradeep - 3 submission(s), 70 pts
-- [Linkedin] Shrike-Sentinel (2026-10-26) - https://lnkd.in/p/gPFg4fYN - 0 pts - `Revand_Pradeep_Linkedln_2026-10-26.json`
+## Revand Pradeep - 3 submission(s), 110 pts
+- [Linkedin] Shrike-Sentinel (2026-10-26) - https://lnkd.in/p/gPFg4fYN - 40 pts - `Revand_Pradeep_Linkedln_2026-10-26.json`
 - [Project] Shrike-Sentinel (2026-10-15) - https://docs.google.com/document/d/1DzsEX9RhsuA5Obxm0qkuIky-P2YCXNoWIiYl_c4sDtA/edit?usp=sharing - 70 pts - `Revand_Pradeep_Project_2026-10-15.json`
 - [PurchaseProof] Vicharak Kit Purchase Proof (2026-10-03) - https://drive.google.com/drive/folders/18JQ_lGAOGAOYQ0ecBd2tAzkTKb5Qq7w3 - 0 pts - `RevandPradeep_PurchaseProof_2026-10-03.json`
 
-## Rudra Das - 2 submission(s), 0 pts
-- [Insta reel] How a FPGA handles Wiring internally far better than a microcontroller. (2026-10-29) - https://drive.google.com/file/d/1BCGLpNFKAuUQUC2rjOgnL4tsFraTsTCR/view?usp=sharing - 0 pts - `Rudra_Das_Insta_reel_2026-10-29.json`
+## Rudra Das - 3 submission(s), 100 pts
+- [Insta reel] How a FPGA handles Wiring internally far better than a microcontroller. (2026-10-29) - https://drive.google.com/file/d/1BCGLpNFKAuUQUC2rjOgnL4tsFraTsTCR/view?usp=sharing - 50 pts - `Rudra_Das_Insta_reel_2026-10-29.json`
+- [Insta reel] HHow a FPGA handles Wiring internally far better than a microcontroller. (2026-10-30) - https://www.instagram.com/reel/DfHyi7Vox4v/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA== - 50 pts - `Rudra_Das_Insta_reel_2026-10-30.json`
 - [PurchaseProof] Purchase proof of shrike lite, from Vicharak website, order number #4654 (2026-10-05) - https://drive.google.com/file/d/1MZLztG02_bqR_z3ZRcP0hvcpkmajiLCZ/view?usp=sharing - 0 pts - `Rudra_Das_PurchaseProof_2026-10-05.json`
 
 ## Rujul Rajeev Rumale - 3 submission(s), 80 pts
@@ -87,10 +91,10 @@ _Total: 49 accepted submissions across 22/69 fellows_
 - [PurchaseProof] Vicharak Kit Purchase Proof (2026-10-07) - https://drive.google.com/file/d/15P0vRGSMZeC6cAN4dE6t7xOi2WeBy2j3/view?usp=sharing - 0 pts - `Veer_Kishan_Whabi_PurchaseProof_2026-10-07.json`
 - [X] Vicharak Fellowship Post-1 (2026-10-16) - https://docs.google.com/document/d/1r94aN2mwUiMcJ8wOCVw6MSr8-jLUZ3vR-yG5TSVFDsM/edit?tab=t.0 - 40 pts - `Veer_Kishan_Whabi_X_2026-10-16.json`
 
-## yatharth vishwa - 6 submission(s), 220 pts
+## yatharth vishwa - 6 submission(s), 260 pts
 - [Linkedin] Joining Vicharak fellowship program (2026-10-08) - https://www.linkedin.com/feed/update/urn:li:activity:7513978284406337537/ - 40 pts - `yatharth_vishwa_Linkedin_2026-10-08.json`
 - [Linkedin] ShrikeFi FPGA OTA demo (2026-10-13) - https://www.linkedin.com/feed/update/urn:li:activity:7515066355432345600/ - 40 pts - `yatharth_vishwa_Linkedin_2026-10-13.json`
-- [Linkedin] ShrikeFi lets an AI agent control a stock Android phone (2026-10-28) - https://www.linkedin.com/feed/update/urn:li:activity:7520909884897488896/ - 0 pts - `yatharth_vishwa_Linkedin_2026-10-28.json`
+- [Linkedin] ShrikeFi lets an AI agent control a stock Android phone (2026-10-28) - https://www.linkedin.com/feed/update/urn:li:activity:7520909884897488896/ - 40 pts - `yatharth_vishwa_Linkedin_2026-10-28.json`
 - [Project] OTA support for ShrikeFi's FPGA (2026-10-13) - https://github.com/yatharthvishwa/ShrikeFi_FPGAOTA - 70 pts - `yatharth_vishwa_Project_2026-10-13.json`
 - [Project] ESP32-AndroidHID-Agent (2026-10-23) - https://github.com/yatharthvishwa/ESP32-AndroidHID-Agent - 70 pts - `yatharth_vishwa_Project_2026-10-23.json`
 - [PurchaseProof] PurchaseProof (2026-10-03) - https://drive.google.com/file/d/16SCtfxldNgffWbm9B9NtIkQyjrcxq1QA/view?usp=sharing - 0 pts - `yatharth_vishwa_PurchaseProof_2026-10-03.json`

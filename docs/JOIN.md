@@ -9,23 +9,18 @@ Public to view. To submit, your **first PR must be your purchase proof**.
 
 ## After proof is accepted
 Only after your PurchaseProof PR is merged will regular submissions be accepted:
-- Blog / Linkedin / X / Project / Workshop / Documentation contribution / YT longform Video / YT shorts / Insta reel / Fellowship Referral / Bug / PostedLink
+- Blog / Linkedin / X / Project / Workshop / Documentation contribution / YT longform Video / YT shorts / Insta reel / Fellowship Referral / Bug
 - One submission = one JSON file = one PR, e.g. `submissions/Arjun_A_Blog_2026-09-28.json` with PR title `[Blog] Arjun A — https://...`
 
-### Two-stage flow for social media types (Blog, Linkedin, X, YT longform Video, YT shorts, Insta reel)
+### Conventional flow for all submissions (including social media)
 
-Social media submissions follow a two-stage process to ensure students actually post on the platform:
+All submission types follow the same flow: one PR, admin reviews and merges, points given.
 
-**Stage 1 — Draft (admin reviews, 0 points):**
+**For social media types (Blog, Linkedin, X, YT longform Video, YT shorts, Insta reel):**
 1. Submit `type: "Blog"` (or other social type) with `link` = your Google Doc draft.
-2. Admin reviews content, merges → 0 points (content approved, pending post).
-3. Bot comments: "Content approved! Now post on the platform, then submit the final link."
-
-**Stage 2 — Posted link (system verifies, points given):**
-1. Post the final version on the platform.
-2. Open a new PR with `type: "PostedLink"`, `for_type: "Blog"` (or your type), and `link` = the published URL.
-3. System verifies: platform matches + prior draft approved (title similarity ≥ 75%) → points given.
-4. If verification fails → PR stays open for admin review.
+2. Admin reviews content, comments: "Post on the platform and update the link in this PR to the published URL."
+3. Student updates the `link` field in the same PR to the published URL.
+4. Admin verifies the posted link by eye, then merges → points given.
 
 **Other types (Project, Workshop, Documentation contribution, Bug, Fellowship Referral, PurchaseProof):** one PR, admin reviews and merges, points given. No posted link step.
 

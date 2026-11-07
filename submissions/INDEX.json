@@ -1,14 +1,13 @@
 {
   "Adeep AG": [
     {
-      "type": "PostedLink",
+      "type": "Linkedin",
       "points": 40,
       "title": "Geto Web IDE — Browser-Based IDE for Shrike-Lite",
       "link": "https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ",
       "date": "2026-10-27",
-      "file": "Adeep_AG_Linkedin_PostedLink_2026-10-27.json",
-      "for_type": "Linkedin",
-      "grandfathered": false
+      "file": "Adeep_AG_Linkedin_2026-10-27.json",
+      "for_type": ""
     },
     {
       "type": "Project",
@@ -17,8 +16,7 @@
       "link": "https://github.com/ADEEP13/IDE",
       "date": "2026-10-17",
       "file": "Adeep_AG_Project_2026-10-17.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -27,8 +25,7 @@
       "link": "https://drive.google.com/drive/u/0/folders/1h7LZbNftaQJHPZZ7_Fp8lw2rfFcRpzPM",
       "date": "2026-10-09",
       "file": "Adeep_AG_PurchaseProof_2026-10-09.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Aditya Nukala": [
@@ -39,11 +36,19 @@
       "link": "https://drive.google.com/drive/folders/1wtj7Pgt6J6he5JOblPkfnwpEVLV-jZXD?usp=sharing",
       "date": "2026-10-14",
       "file": "Aditya_Nukala_PurchaseProof_2026-10-14.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Amaan Pathan": [
+    {
+      "type": "Blog",
+      "points": 40,
+      "title": "PROJ001-SOL01: 3 Inverter SPWM",
+      "link": "https://amaan-projects.hashnode.dev/proj001-sol01-3-inverter-spwm",
+      "date": "2026-11-03",
+      "file": "Amaan_Pathan_Blog_2026-11-03.json",
+      "for_type": ""
+    },
     {
       "type": "Linkedin",
       "points": 40,
@@ -51,8 +56,7 @@
       "link": "https://www.linkedin.com/posts/amaan-pathan-127bb0263_vicharak-embeddedsystems-fpga-share-7514711558405521408-DsDl/",
       "date": "2026-10-10",
       "file": "Amaan_Pathan_Linkedin_2026-10-10.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "Project",
@@ -61,8 +65,7 @@
       "link": "https://github.com/Amaan9737/shrike-fi-three-phase-spwm-inverter",
       "date": "2026-10-20",
       "file": "Amaan_Pathan_Project_2026-10-20.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -71,8 +74,7 @@
       "link": "https://drive.google.com/file/d/1UEn-QpIAYLxYL8V42cCf-1WJR7T8QCbP/view?usp=sharing",
       "date": "2026-10-08",
       "file": "Amaan_Pathan_PurchaseProof_2026-10-08.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "X",
@@ -81,8 +83,7 @@
       "link": "https://x.com/AstroAmaan/status/2108955198274379963",
       "date": "2026-10-10",
       "file": "Amaan_Pathan_X_2026-10-10.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Ankit raj": [
@@ -93,8 +94,16 @@
       "link": "https://docs.google.com/document/d/1LPNTUWZky4v0anmgryq7N7yoyT6Yg6AC/edit?usp=sharing&ouid=109376149344711751562&rtpof=true&sd=true",
       "date": "2026-10-15",
       "file": "Ankit_raj_Blog_2026-10-15.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
+    },
+    {
+      "type": "Blog",
+      "points": 40,
+      "title": "ShrikEnigma: Rebuilding World war II Enigma on the Shrike Fi FPGA",
+      "link": "https://app.notion.com/p/ShrikEnigma-Rebuilding-Enigma-on-the-Shrike-Fi-FPGA-40974b84c70c8192887ff7cf71a7e495?source=copy_link",
+      "date": "2026-10-30",
+      "file": "Ankit_raj_Blog_2026-10-30.json",
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -103,8 +112,7 @@
       "link": "https://drive.google.com/drive/folders/1ULPYCRh1iDjAZz93mgKhIKx7e3LOg7Sx",
       "date": "2026-10-13",
       "file": "Ankit_raj_PurchaseProof_2026-10-13.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "X",
@@ -113,8 +121,16 @@
       "link": "https://docs.google.com/document/d/1HdydgKhk10kyXjXO52IPTpVtqnq3nk1D1awjBy11p0s/edit?usp=sharing",
       "date": "2026-10-15",
       "file": "Ankit_raj_X_2026-10-15.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
+    },
+    {
+      "type": "X",
+      "points": 40,
+      "title": "ShrikEnigma: Hardware WWII Enigma Machine on Shrike-Fi FPGA",
+      "link": "https://docs.google.com/document/d/1wJ0Bla-vXqlKrBWtmZnBGOJozGsdPDHfYkWUCrVemmI/edit?usp=sharing",
+      "date": "2026-10-30",
+      "file": "Ankit_raj_X_2026-10-30.json",
+      "for_type": ""
     }
   ],
   "ANNESTIO PIETY CASTANHA": [
@@ -125,8 +141,7 @@
       "link": "https://github.com/apcetc/Vicharak_Campus_Fellowship_APC-/tree/main/PROJECT_1",
       "date": "2026-10-12",
       "file": "ANNESTIO_PIETY_CASTANHA_Project_2026-10-12.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -135,8 +150,7 @@
       "link": "https://raw.githubusercontent.com/apcetc/Vicharak_Campus_Fellowship_APC-/main/submissions/purchase_proof/INVOICE_APC.png",
       "date": "2026-10-03",
       "file": "ANNESTIO_PIETY_CASTANHA_PurchaseProof_2026-10-03.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Dev Kumar Singh": [
@@ -147,8 +161,7 @@
       "link": "https://drive.google.com/drive/folders/1_kEV9b1up5vsGaKk3_d6CEBD9v6QvkF5?usp=sharing",
       "date": "2026-10-23",
       "file": "Dev_Kumar_Singh_PurchaseProof_2026-10-23.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Gantla Venkata Sravan": [
@@ -159,8 +172,7 @@
       "link": "https://x.com/Sravan271828/status/2103878332039549257/photo/4",
       "date": "2026-10-03",
       "file": "Gantla_Venkata_Sravan_PurchaseProof_2026-10-03.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Hardik Kumar Sinha": [
@@ -171,8 +183,7 @@
       "link": "https://drive.google.com/file/d/17PDVtNNHAzT4F4VuFTIq53OeErCilu2b/view?usp=sharing",
       "date": "2026-10-07",
       "file": "Hardik_Kumar_Sinha_PurchaseProof_2026-10-07.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Harshit Kumar Sharma": [
@@ -183,8 +194,7 @@
       "link": "https://docs.google.com/document/d/1eVXTWC7kz1-T-7XDU8W0iMRcp34p7p_lXSpCNLVltkw/edit?usp=sharing",
       "date": "2026-10-15",
       "file": "Harshit_Kumar_Sharma_Blog_2026-10-15.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -193,8 +203,7 @@
       "link": "https://docs.google.com/document/d/1xIFamwjXaCcTN_OIHSBaBIrnRZicWH-KDGStICfz7Ws/edit?usp=sharing",
       "date": "2026-10-04",
       "file": "Harshit_Kumar_Sharma_PurchaseProof_2026-10-04.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "X",
@@ -203,8 +212,7 @@
       "link": "https://docs.google.com/document/d/1wtRL2N-kqDj2T9i16jaijWDE3giKfRZs6k4EvHBKFEA/edit?usp=sharing",
       "date": "2026-10-08",
       "file": "Harshit_Kumar_Sharma_X_2026-10-08.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "MAJJI BHANU PRAKASH": [
@@ -215,8 +223,7 @@
       "link": "https://drive.google.com/file/d/1CDshSAe84N0fkmZvA8rQyvRSKdjuD4up/view?usp=drivesdk",
       "date": "2026-10-07",
       "file": "MAJJI_BHANU_PRAKASH_Purchaseproof_2026-10-09.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Nathan Mathews": [
@@ -227,8 +234,7 @@
       "link": "https://docs.google.com/document/d/1MP8t0d4zSxcjxD-0ID6zmkhGox1zfDe8YlOHhGU3rw4/edit?usp=sharing",
       "date": "2026-10-09",
       "file": "Nathan_Mathews_Blog_2026-10-09.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "Project",
@@ -237,8 +243,7 @@
       "link": "https://github.com/Deagle2/shrike-traces",
       "date": "2026-10-21",
       "file": "Nathan_Mathews_Project_2026-10-21.json",
-      "for_type": "",
-      "grandfathered": false
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -247,8 +252,7 @@
       "link": "https://drive.google.com/file/d/146DsJhh7G3UF64aGUQF1zYtZObXwhnUl/view",
       "date": "2026-10-03",
       "file": "Nathan_Mathews_PurchaseProof_2026-10-03.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Pradyumna Dalmia": [
@@ -259,8 +263,7 @@
       "link": "https://drive.google.com/file/d/1sDcuwwf4JRTPqTiSljabapSxWne0qyIQ/view?usp=sharing",
       "date": "2026-01-01",
       "file": "Pradyumna_Dalmia_PurchaseProof_2026-01-01.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Pranav Dhole": [
@@ -271,20 +274,18 @@
       "link": "https://ibb.co/4vSJLtb",
       "date": "2026-10-7",
       "file": "Pranav_Dhole_PurchaseProf_2026-10-7.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Revand Pradeep": [
     {
       "type": "Linkedin",
-      "points": 0,
+      "points": 40,
       "title": "Shrike-Sentinel",
       "link": "https://lnkd.in/p/gPFg4fYN",
       "date": "2026-10-26",
       "file": "Revand_Pradeep_Linkedln_2026-10-26.json",
-      "for_type": "",
-      "grandfathered": false
+      "for_type": ""
     },
     {
       "type": "Project",
@@ -293,8 +294,7 @@
       "link": "https://docs.google.com/document/d/1DzsEX9RhsuA5Obxm0qkuIky-P2YCXNoWIiYl_c4sDtA/edit?usp=sharing",
       "date": "2026-10-15",
       "file": "Revand_Pradeep_Project_2026-10-15.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -303,20 +303,27 @@
       "link": "https://drive.google.com/drive/folders/18JQ_lGAOGAOYQ0ecBd2tAzkTKb5Qq7w3",
       "date": "2026-10-03",
       "file": "RevandPradeep_PurchaseProof_2026-10-03.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Rudra Das": [
     {
       "type": "Insta reel",
-      "points": 0,
+      "points": 50,
       "title": "How a FPGA handles Wiring internally far better than a microcontroller.",
       "link": "https://drive.google.com/file/d/1BCGLpNFKAuUQUC2rjOgnL4tsFraTsTCR/view?usp=sharing",
       "date": "2026-10-29",
       "file": "Rudra_Das_Insta_reel_2026-10-29.json",
-      "for_type": "",
-      "grandfathered": false
+      "for_type": ""
+    },
+    {
+      "type": "Insta reel",
+      "points": 50,
+      "title": "HHow a FPGA handles Wiring internally far better than a microcontroller.",
+      "link": "https://www.instagram.com/reel/DfHyi7Vox4v/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "date": "2026-10-30",
+      "file": "Rudra_Das_Insta_reel_2026-10-30.json",
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -325,8 +332,7 @@
       "link": "https://drive.google.com/file/d/1MZLztG02_bqR_z3ZRcP0hvcpkmajiLCZ/view?usp=sharing",
       "date": "2026-10-05",
       "file": "Rudra_Das_PurchaseProof_2026-10-05.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Rujul Rajeev Rumale": [
@@ -337,8 +343,7 @@
       "link": "https://docs.google.com/document/d/1fMqggaOhPgZnX6EvHaZLTOqjfvpdaqLAtQBr_m7m3y0/edit?usp=sharing",
       "date": "2026-10-21",
       "file": "Rujul_Rajeev_Rumale_Linkedin_2026-10-21.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -347,8 +352,7 @@
       "link": "https://drive.google.com/drive/folders/14tWHuu1n-5U8KMOqeQ7zrWIszjdGWbXe?usp=sharing",
       "date": "2026-10-20",
       "file": "Rujul_Rajeev_Rumale_PurchaseProof_2026-10-20.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "X",
@@ -357,8 +361,7 @@
       "link": "https://docs.google.com/document/d/1Rvc4D2nGtCmJ6Kf41bTGzvQwnRWxOxn54YWQSsxgKlQ/edit?usp=sharing",
       "date": "2026-10-21",
       "file": "Rujul_Rajeev_Rumale_X_2026-10-21.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Saksham Sud": [
@@ -369,8 +372,7 @@
       "link": "https://github.com/Geneticscrol/shrikefi-ble-tag",
       "date": "2026-10-06",
       "file": "Saksham_Sud_Project_2026-10-06.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "Project",
@@ -379,8 +381,7 @@
       "link": "https://github.com/Geneticscrol/perch",
       "date": "2026-10-13",
       "file": "Saksham_Sud_Project_2026-10-13.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -389,8 +390,7 @@
       "link": "https://raw.githubusercontent.com/Geneticscrol/vicharak-fellowship-tracker/proof-assets/proofs/Saksham_Sud_proof.png",
       "date": "2026-10-05",
       "file": "Saksham_Sud_PurchaseProof_2026-10-05.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Shreya Veni": [
@@ -401,8 +401,7 @@
       "link": "https://medium.com/@shreyadoesstuff/why-is-there-an-fpga-sitting-next-to-my-esp32-64a1f7263e43",
       "date": "2026-10-22",
       "file": "Shreya_Veni_Blog_2026-10-22.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -411,8 +410,7 @@
       "link": "https://github.com/user-attachments/assets/9132479f-a3f6-4c4f-aa98-1484a388c49d",
       "date": "2026-10-03",
       "file": "Shreya_Veni_PurchaseProof_2026-10-03.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Sumit Maheshwari": [
@@ -423,8 +421,7 @@
       "link": "https://lnkd.in/p/gFtzT9YD",
       "date": "2026-10-06",
       "file": "Sumit_Maheshwari_PurchaseProof_2026-10-06.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Vaibhav Santosh Tiwari": [
@@ -435,8 +432,7 @@
       "link": "https://raw.githubusercontent.com/orignalbox/vicharak-fellowship-tracker/proof-assets/Vaibhav_Santosh_Tiwari_proof.png",
       "date": "2026-10-03",
       "file": "Vaibhav_Santosh_Tiwari_PurchaseProof_2026-10-03.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "X",
@@ -445,8 +441,7 @@
       "link": "https://x.com/imnot_linear/status/2109241369109909789",
       "date": "2026-10-11",
       "file": "Vaibhav_Santosh_Tiwari_X_2026-10-11.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "Veer Kishan Whabi": [
@@ -457,8 +452,7 @@
       "link": "https://drive.google.com/file/d/15P0vRGSMZeC6cAN4dE6t7xOi2WeBy2j3/view?usp=sharing",
       "date": "2026-10-07",
       "file": "Veer_Kishan_Whabi_PurchaseProof_2026-10-07.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "X",
@@ -467,8 +461,7 @@
       "link": "https://docs.google.com/document/d/1r94aN2mwUiMcJ8wOCVw6MSr8-jLUZ3vR-yG5TSVFDsM/edit?tab=t.0",
       "date": "2026-10-16",
       "file": "Veer_Kishan_Whabi_X_2026-10-16.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ],
   "yatharth vishwa": [
@@ -479,8 +472,7 @@
       "link": "https://www.linkedin.com/feed/update/urn:li:activity:7513978284406337537/",
       "date": "2026-10-08",
       "file": "yatharth_vishwa_Linkedin_2026-10-08.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "Linkedin",
@@ -489,18 +481,16 @@
       "link": "https://www.linkedin.com/feed/update/urn:li:activity:7515066355432345600/",
       "date": "2026-10-13",
       "file": "yatharth_vishwa_Linkedin_2026-10-13.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "Linkedin",
-      "points": 0,
+      "points": 40,
       "title": "ShrikeFi lets an AI agent control a stock Android phone",
       "link": "https://www.linkedin.com/feed/update/urn:li:activity:7520909884897488896/",
       "date": "2026-10-28",
       "file": "yatharth_vishwa_Linkedin_2026-10-28.json",
-      "for_type": "",
-      "grandfathered": false
+      "for_type": ""
     },
     {
       "type": "Project",
@@ -509,8 +499,7 @@
       "link": "https://github.com/yatharthvishwa/ShrikeFi_FPGAOTA",
       "date": "2026-10-13",
       "file": "yatharth_vishwa_Project_2026-10-13.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "Project",
@@ -519,8 +508,7 @@
       "link": "https://github.com/yatharthvishwa/ESP32-AndroidHID-Agent",
       "date": "2026-10-23",
       "file": "yatharth_vishwa_Project_2026-10-23.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     },
     {
       "type": "PurchaseProof",
@@ -529,8 +517,7 @@
       "link": "https://drive.google.com/file/d/16SCtfxldNgffWbm9B9NtIkQyjrcxq1QA/view?usp=sharing",
       "date": "2026-10-03",
       "file": "yatharth_vishwa_PurchaseProof_2026-10-03.json",
-      "for_type": "",
-      "grandfathered": true
+      "for_type": ""
     }
   ]
 }
